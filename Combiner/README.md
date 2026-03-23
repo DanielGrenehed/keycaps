@@ -5,6 +5,6 @@ These started as a way to make it easier to manage to press two buttons at the s
 # Printing
 I print them with supports at a 45 degree angle which gives enough strengh for the stem to survive being inserted and removed from the switches multiple times. I have had them printed in TPU, PETG and PLA, TPU gives it a slightly lower pitched sound when pressed. 
 
-[![Combiner keycaps Image](https://github.com/DanielGrenehed/keycaps/blob/main/Combiner/ChocV1CombineirKeycap.jpg)]()
+[![Combiner keycaps Image](https://github.com/DanielGrenehed/keycaps/blob/main/Combiner/ChocV1CombinerKeycap.jpg)]()
 
 
